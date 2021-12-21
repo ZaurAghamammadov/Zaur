@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zauris
+- 👋 Hi, I’m @Zaur
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
